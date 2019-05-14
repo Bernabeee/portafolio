@@ -8,3 +8,4 @@ body { font-family: 'Raleway', sans-serif;}
     height: 80vh;
 }
 .header div {padding-top: 29rem;}
+.card {border: 0px solid; }
