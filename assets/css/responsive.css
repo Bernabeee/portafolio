@@ -1,9 +1,37 @@
 @media (min-width: 576px) and (max-width: 767px) {
+    footer i {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    #ultimostrabajos {  padding-left: 3rem!important;
+                        padding-right: 3rem!important; 
+                        }
+    .header div {
+                padding-top: 25rem;
+                }
 
 }
 @media (min-width: 480px) and (max-width: 767px) {
-
+    footer i {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    #ultimostrabajos {  padding-left: 3rem!important;
+                        padding-right: 3rem!important; 
+                        }
+    .header div {
+                padding-top: 25rem;
+                }
 }
 @media (min-width: 320px) and (max-width: 767px) {
-
+    footer i {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    #ultimostrabajos {  padding-left: 3rem!important;
+                        padding-right: 3rem!important; 
+                        }
+    .header div {
+                padding-top: 25rem;
+                }
 }
