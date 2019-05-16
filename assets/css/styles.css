@@ -1,5 +1,9 @@
-body { font-family: 'Raleway', sans-serif;}
-.morado { background-color: #660066;}
+body { 
+        font-family: 'Raleway', sans-serif;
+        }
+.morado { 
+        background-color: #660066;
+        }
 .header { 
     background-image: url("../img/bg_hero.png");
     background-position: center center;
@@ -7,16 +11,39 @@ body { font-family: 'Raleway', sans-serif;}
     background-attachment: fixed;
     height: 80vh;
 }
-.header div {padding-top: 29rem;}
-.card {border: 0px solid; }
-.navbar a, h1 { font-size: 3rem;
-            font-weight: 800;}
-.navbar ul li a{ font-size: 1rem;
-                font-weight: 400;}
-h2 {font-size: 2rem;
-    font-weight: 700;}
-p { font-size: 1rem;
-    font-weight: 400;}
-h3 { font-size: 1.75rem;
-    font-weight: 600;}
-.exp { width: 40%;}
+.header div {
+            padding-top: 29rem;
+            }
+.card {
+        border: 0px solid; 
+        }
+.navbar a, h1 { 
+                font-size: 3rem;
+                font-weight: 800;
+                }
+.navbar ul li a{ 
+                font-size: 1rem;
+                font-weight: 400;
+                }
+h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    }
+p { 
+    font-size: 1rem;
+    font-weight: 400;
+    }
+h3 { 
+    font-size: 1.75rem;
+    font-weight: 600;
+    }
+h5 { 
+    font-size: 1.50rem;
+    font-weight: 600;
+    }
+.exp { 
+        width: 40%;
+        }
+.bold { 
+        font-weight: 700;
+        }
